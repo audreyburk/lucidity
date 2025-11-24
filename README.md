@@ -2,6 +2,8 @@
 
 musings from the great northwest
 
+[read lucidity here](https://lucidity.ink/)
+
 ## todo
 
 - turn scenes into double linked list
